@@ -1,0 +1,46 @@
+_repo: The-book-of-the-ladiesIllustrious-Dames--The-Reign-and-Amours-of-the-Bourbon-R-gime_42515
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Sainte-Beuve, Charles Augustin
+    aliases:
+    - Delorme, Joseph
+    - Sainte-Beuve, C.-A. (Charles Augustin)
+    birthdate: 1804
+    deathdate: 1869
+    gutenberg_agent_id: '5145'
+    url: http://www.gutenberg.org/2009/agents/5145
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Augustin_Sainte-Beuve
+covers:
+- cover_type: archival
+  image_path: 42515-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brantôme, Pierre de Bourdeille
+    aliases:
+    - De Bourdeille, Pierre, seigneur de Brantôme
+    - Bourdeille, Pierre, seigneur de Brantôme
+    - Brantome, Pierre de Bourdeille, seigneur de
+    deathdate: 1614
+    gutenberg_agent_id: '39903'
+    url: http://www.gutenberg.org/2009/agents/39903
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_de_Bourdeille,_seigneur_de_Brant%C3%B4me
+description: ''
+gutenberg_issued: '2013-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42515'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Biography'
+- !lcsh 'Women -- Biography'
+- !lcsh 'Queens'
+- !lcsh 'France -- Court and courtiers'
+- !lcc 'DC'
+title: 'The book of the ladies
+
+  Illustrious Dames: The Reign and Amours of the Bourbon Régime'
+url: http://www.gutenberg.org/ebooks/42515
