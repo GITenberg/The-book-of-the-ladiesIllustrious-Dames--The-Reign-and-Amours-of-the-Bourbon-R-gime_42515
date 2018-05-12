@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39903
     wikipedia: http://en.wikipedia.org/wiki/Pierre_de_Bourdeille,_seigneur_de_Brant%C3%B4me
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42515#The-book-of-the-ladiesIllustrious-Dames--The-Reign-and-Amours-of-the-Bourbon-R-gime
 gutenberg_issued: '2013-04-12'
 gutenberg_type: Text
 identifiers:
